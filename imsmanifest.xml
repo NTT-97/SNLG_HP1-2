@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="mtU87lkcc3ZUv" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>UpSkill</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="upskill_organization">
+		<organization identifier="upskill_organization">
+
+			<title>UpSkill</title>
+			<item identifier="B9D0CE70-12C0-4CE3-B2CD-E349C36B9332" identifierref="resource">
+				<title>UpSkill_Hp1</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-13a4c747c877ddc2e35ac870c594ea567b865163.mp3"/>
+<file href="res/data/audios/snd-28e0e6f01a97d3503a7a91a036063ecb9fe165bd.mp3"/>
+<file href="res/data/audios/snd-7bc7a9ff83900b4f51dfaf8430be6fe6fccaa869.mp3"/>
+<file href="res/data/audios/snd-a8bfe73724a1d87bf0cef034290d082dfda9aebe.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/fonts/fnt5.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/70eb-330f-1976-a65e.png"/>
+<file href="res/data/images/7206-0137-be89-201c.png"/>
+<file href="res/data/images/img-011d3fa807f054cf24f84cba9dce2e1cb2e04c54.jpg"/>
+<file href="res/data/images/img-0314afc774d2d4ce463894e25cd44cfb966f7641.jpg"/>
+<file href="res/data/images/img-10103fd1fecceb4a7bdf9e4ba665fa410a503fd5.png"/>
+<file href="res/data/images/img-11d9afe8f3ad303f89b60e3bd90bc0728c5db605.gif"/>
+<file href="res/data/images/img-1407ef492f8a75337d6604a682a3ed6af8454d9b.jpg"/>
+<file href="res/data/images/img-154f83507f2df8e7239ba41148d952f64b725187.png"/>
+<file href="res/data/images/img-1642f6fed25a7ff9727dffab3691fa80fcdeca4d.png"/>
+<file href="res/data/images/img-1645a85ad8c9ad4a0d2643bcb51db0741d82284c.jpg"/>
+<file href="res/data/images/img-1e5018f06ef0e38c2a321900916e84cdaf0f09a2.png"/>
+<file href="res/data/images/img-23f72a865932d14927c7094aec3be84387780866.png"/>
+<file href="res/data/images/img-241fc55f182fffc8910a2aa5c81af7181d079a83.png"/>
+<file href="res/data/images/img-28a9df11df5121722e6659c1d3a3697d227a5a59.jpg"/>
+<file href="res/data/images/img-2fb1115edb315e7711bc4d73bb738194af838c72.gif"/>
+<file href="res/data/images/img-3064ec47e2a272f7080f4d6be40f83ebc0f5adee.jpg"/>
+<file href="res/data/images/img-32196416e15f5395e344f3569e3d97672ccb62c3.png"/>
+<file href="res/data/images/img-329d5db30d882c5c5bccb84e78592e9ec69d29be.jpg"/>
+<file href="res/data/images/img-3ff1f4d2435c0a60f6afaff6daba84250cf18f76.png"/>
+<file href="res/data/images/img-41efc02f8778956533b996b332961ebbd26a6824.png"/>
+<file href="res/data/images/img-42ffed4895eddbaff9ebcb316cba6fe9aa17fc6c.png"/>
+<file href="res/data/images/img-4cc40a06c2c582e0ac69cd40ceb781103f1b71e0.png"/>
+<file href="res/data/images/img-4d175aa38e7486de1d0bb5ae10ed28d9b73ee9ed.jpg"/>
+<file href="res/data/images/img-4dfb5b9541ca6befe098693eedd65daedbd959d1.gif"/>
+<file href="res/data/images/img-4e1f7ef8d4c105993b1c7eca9fd9cacd1ef44a30.jpg"/>
+<file href="res/data/images/img-51b03d477451ae57182c1c8f3732b07f668a6754.png"/>
+<file href="res/data/images/img-54c71326e4c67f7e967869ca9307c044119d89e3.jpg"/>
+<file href="res/data/images/img-57464d7318884b800d3b8aa3a0fad09e637cf981.png"/>
+<file href="res/data/images/img-5d65beaa6281d16471c0b66639ab3a0158471717.jpg"/>
+<file href="res/data/images/img-60aacc09da238d68d9ffc6b187fe5644e14df700.jpg"/>
+<file href="res/data/images/img-637cad8db1a3bd29407641fa2e0d5955b43f2c37.png"/>
+<file href="res/data/images/img-66ee5f1d6d2e669edb10c096f895f896eabaa354.png"/>
+<file href="res/data/images/img-691ba7f33dd1f45ba4eec0758d1c4dc1b2e2216e.gif"/>
+<file href="res/data/images/img-6ab99f52d867fb238190bb26240fc89bd2929de5.png"/>
+<file href="res/data/images/img-6b273288031d040ed675531a78f2daecf03b1fce.jpg"/>
+<file href="res/data/images/img-7067dc8f7d73d41c107baeb478c5d67e8ed51caf.png"/>
+<file href="res/data/images/img-734e3b9d282b32c89e6560e9ee7c3a953b9349b8.png"/>
+<file href="res/data/images/img-80789af524d99e95c43fef599e0945a0626c5713.png"/>
+<file href="res/data/images/img-80dd26763ef3b852e656b2166a2b775b6ba24d2d.jpg"/>
+<file href="res/data/images/img-870a6878cc88cb5dc7e7fc39b610a956fdb7553a.png"/>
+<file href="res/data/images/img-89cd6f3846409bd20ca5214e5f57102e56c70f39.png"/>
+<file href="res/data/images/img-8dcfac1709964e26796278355b6860dd25924b23.png"/>
+<file href="res/data/images/img-914f88850006a2306fa97ace9d7d612475a139a1.gif"/>
+<file href="res/data/images/img-970c68ef3ccb7b9f49b9524ed07c62f2beaa8fe2.png"/>
+<file href="res/data/images/img-9b9b2919d1e07e988da8172ed4ef69b16c5fe981.png"/>
+<file href="res/data/images/img-9dc7c74e0a1f3462153777243d3a81f3242fb270.png"/>
+<file href="res/data/images/img-9f0b165f05910acb1d6b0ddc0592b2dde247c0a8.png"/>
+<file href="res/data/images/img-a0be4a06a46cc7a86367496341213e0b99b1ff03.jpg"/>
+<file href="res/data/images/img-a59d98561d6112e160d53c0af6bcf7332d38ff2b.gif"/>
+<file href="res/data/images/img-aaa38d888cb1c73a50703ce89e4e620e20af3391.jpg"/>
+<file href="res/data/images/img-b0c19b61e67d58304ad26690d89ad2b2f4cbc3fb.gif"/>
+<file href="res/data/images/img-bc81dd9446786299cbd9b9e3e354e83708267bec.png"/>
+<file href="res/data/images/img-bcdf271f79daed5383174756f141832a8328c44c.gif"/>
+<file href="res/data/images/img-bd43984d3499f68ab199703a5f31250c01b3d7ea.gif"/>
+<file href="res/data/images/img-bd82c1061d2771619c52faeab30d201b249bc160.jpg"/>
+<file href="res/data/images/img-bf24c1f9531958a19bbc74a36cf68b24f73bda9b.jpg"/>
+<file href="res/data/images/img-d546bdf220d160bb26fc13666554b2e13c2f5e20.jpg"/>
+<file href="res/data/images/img-d80807a712550ebd8a62a79c9d28b6628df5218e.png"/>
+<file href="res/data/images/img-dd90649e052dae9f1080e9c82ba52cf993156b14.jpg"/>
+<file href="res/data/images/img-f1539d2cae3baa9cc79f95adf2a38a54bfe68951.jpg"/>
+<file href="res/data/images/img-fa4cf3ca765ef3fc1b422ef38cafd01ddf382c05.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/data/videos/video-28a9df11df5121722e6659c1d3a3697d227a5a59.mp4"/>
+<file href="res/data/videos/video-45a89648009850642d9769c590d32e1e18eaf342.mp4"/>
+<file href="res/data/videos/video-80dd26763ef3b852e656b2166a2b775b6ba24d2d.mp4"/>
+<file href="res/data/videos/video-a0be4a06a46cc7a86367496341213e0b99b1ff03.mp4"/>
+<file href="res/data/videos/video-bf24c1f9531958a19bbc74a36cf68b24f73bda9b.mp4"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
